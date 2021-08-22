@@ -1,0 +1,49 @@
+.navbarcolour {
+  background-color: #1974D2
+}
+.navbartext{
+  color: white;
+  font-size: 20px;
+  font-family: effra, sans-serif;
+  font-weight: 350;
+  font-style: normal;
+  f
+}
+.date{
+    color: #1974D2;
+    font-size: 20px;
+}
+
+.heading{
+  font-size: 50px;
+  font-family: effra, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+
+}
+
+.headerscore{
+  font-size: 60px;
+  font-family: effra, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.base{
+  font-size: 20px;
+  font-family: effra, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.subheader{
+  font-size: 35px;
+  font-family: effra, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+
+}
+.commentname{
+  font-weight: 600;
+  font-size: 20px;
+  color: #1974D2 ;
+}
